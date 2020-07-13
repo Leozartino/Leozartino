@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/leozartino/">
     <img align="left" alt="Instagram" width="21px" src="https://github.com/Leozartino/Leozartino/blob/master/assets/instagram.svg" />
   </a>
-  <a href="leozartino@gmail.com">
+  <a href="mailto:leozartino@gmail.com">
     <img align="left" alt="Gmail" width="23px" src="https://github.com/Leozartino/Leozartino/blob/master/assets/email.svg" />
   </a>
 
