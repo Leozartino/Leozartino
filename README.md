@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, my name is  Leonardo Oliveira and I am a Full-Stack Developer 
 
-I'm software development with 3+ years of expertise in C# .NET Core, React and AzureDevops. 
+I'm working the last past 3+ years with C# .NET Core, React and AzureDevops as my main Tech Stack and I love what I do 💖😊. 
 
   Experienced working with microservices, and monolith development. Certified in utilizing Azure or AWS to work with CI/CD.
 
