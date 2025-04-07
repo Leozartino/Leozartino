@@ -5,11 +5,6 @@ I'm working the last past 3+ years with C# .NET Core, and Azure services as my m
 
   Experienced working with microservices, and monolith development. Certified in utilizing Azure or AWS to work with CI/CD.
 
-- Notable achievements include successfully implementing an API using C# .NET core 5  for an Issurance Company, streamlining approval and deployment processes through integration with Azure DevOps, SharePoint, and Service Now.
-
-- I helped develop the end-to-end application of a government system for prisoner and patrol management using React.JS, GithubActions, Node.js, Express Framework and Postgresql.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Leozartino) 
 
