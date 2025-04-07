@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, my name is  Leonardo Oliveira and I am a Software Engineer.
 
-I'm working the last past 3+ years with C# .NET Core, and Azure services as my main Tech Stack and I love what I do 💖😊. 
+I'm working the last past 3+ years with C# .NET Core, React and Azure services as my main Tech Stack and I love what I do 💖😊. 
 
   Experienced working with microservices, and monolith development. Certified in utilizing Azure or AWS to work with CI/CD.
 
