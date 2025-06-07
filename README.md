@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hi, my name is  Leonardo Oliveira and I am a Software Engineer.
 
-I'm working the last past 3+ years with C# .NET Core, React and Azure services as my main Tech Stack and I love what I do 💖😊. 
+I'm working the last past 3+ years with C# .NET Core and Azure services as my main Tech Stack and I love what I do 💖😊. 
 
-  Experienced working with microservices, and monolith development. Certified in utilizing Azure or AWS to work with CI/CD.
+  Experienced working with microservices,  monolith development and legacy code maintance. Certified in utilizing Azure or AWS to work with CI/CD.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Leozartino) 
